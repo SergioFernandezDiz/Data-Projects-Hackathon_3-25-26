@@ -17,8 +17,10 @@ jupyter = "*"
 scikit-learn = "*"
 langdetect = "*"
 plotly = "*"
+duckdb = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
