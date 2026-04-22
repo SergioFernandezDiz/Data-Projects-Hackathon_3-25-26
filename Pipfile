@@ -18,6 +18,7 @@ scikit-learn = "*"
 langdetect = "*"
 plotly = "*"
 duckdb = "*"
+yake = "*"
 
 [dev-packages]
 ipykernel = "*"
